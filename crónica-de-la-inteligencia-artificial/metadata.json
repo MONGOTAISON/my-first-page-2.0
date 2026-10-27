@@ -1,0 +1,7 @@
+{
+  "name": "Crónica de la Inteligencia Artificial",
+  "description": "Enciclopedia interactiva sobre la historia, evolución técnica, arquitecturas y el impacto transformador de la IA en la sociedad moderna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
